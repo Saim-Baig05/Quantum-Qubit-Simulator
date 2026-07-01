@@ -9,4 +9,7 @@ The program takes a percentage like (0.7 for 70%) and use random number generato
 
 ### Step 2: My Quantum Amplitude Simulator (Quantum_Amplitude_step2.py)
 My first code was beginner which do not use math that's why I use Quantum Amplitude.
-Because quantum math squares the amplitude to get percentage .To get the chance of 70 we have to pass sqrt of o.7 like this (math.sqrt(0.7))
+Because quantum math squares the amplitude to get percentage .To get the chance of 70 we have to pass sqrt of o.7 like this (math.sqrt(0.7)) 
+
+### step 3: Quantum Pauli Gate
+Pauli Gate also known as Quantum not gate .It work as simple not gate and is one step above from amplitude one.Pauli gate swap the % from 0 to 1 .
